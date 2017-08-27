@@ -1,0 +1,5 @@
+C:\Users\xydong\Downloads\日程事务管理系统源码\obj\Debug\Interop.WMPLib.dll
+C:\Users\xydong\Downloads\日程事务管理系统源码\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\xydong\Downloads\日程事务管理系统源码\obj\Debug\daily.csproj.ResolveComReference.cache
+C:\Users\xydong\Downloads\日程事务管理系统源码\obj\Debug\daily.exe
+C:\Users\xydong\Downloads\日程事务管理系统源码\obj\Debug\daily.pdb

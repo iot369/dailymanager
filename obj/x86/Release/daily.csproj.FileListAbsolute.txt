@@ -1,0 +1,17 @@
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\Interop.WMPLib.dll
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\AxInterop.WMPLib.dll
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.csproj.ResolveComReference.cache
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\bin\x86\Release\Config.xml
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\bin\x86\Release\DataBase\daily.mdb
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\bin\x86\Release\daily.exe
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\bin\x86\Release\daily.pdb
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\bin\x86\Release\Interop.WMPLib.dll
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\bin\x86\Release\AxInterop.WMPLib.dll
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.Properties.Resources.resources
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.UI.FrmMain.resources
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.UI.FrmMainThread.resources
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.UI.FrmRemind.resources
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.csproj.GenerateResource.Cache
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.exe
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.pdb
+E:\代码上传\6.3\第一个\C#日程事务管理系统(源码)\daily\daily\obj\x86\Release\daily.csprojResolveAssemblyReference.cache
